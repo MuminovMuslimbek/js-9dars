@@ -48,10 +48,11 @@ body {
     align-items: center;
 }
 
-h1 {
+h1,
+h2 {
     text-align: center;
     font-size: 40px;
-    color: rgb(55, 53, 53);
+    color: rgb(32, 31, 31);
 }
 
 ::selection {
@@ -67,11 +68,13 @@ h1 {
 .div_7,
 .div_8,
 .div_9,
-.div_10 {
+.div_10,
+.div1,
+.div2 {
     width: 500px;
     display: flex;
     flex-direction: column;
-    background-color: rgba(0, 128, 255, 0.592);
+    background-color: rgba(0, 72, 255, 0.827);
     padding: 5px 10px;
     border-radius: 5px;
     color: #ffffffb4;
